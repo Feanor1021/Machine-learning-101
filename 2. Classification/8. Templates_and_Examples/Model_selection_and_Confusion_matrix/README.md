@@ -1,0 +1,3 @@
+n the field of machine learning and specifically the problem of statistical classification, a confusion matrix, also known as an error matrix,[10] is a specific table layout that allows visualization of the performance of an algorithm, typically a supervised learning one (in unsupervised learning it is usually called a matching matrix). Each row of the matrix represents the instances in an actual class while each column represents the instances in a predicted class, or vice versa – both variants are found in the literature.[11] The name stems from the fact that it makes it easy to see whether the system is confusing two classes (i.e. commonly mislabeling one as another). 
+
+![alt text](https://miro.medium.com/max/667/1*3yGLac6F4mTENnj5dBNvNQ.jpeg)
