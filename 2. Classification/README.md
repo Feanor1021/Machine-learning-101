@@ -1,1 +1,1 @@
-![WhattoCHoose!](Screenshot from 2023-02-18 17-05-40.png)
+![WhattoCHoose!](image.png)
